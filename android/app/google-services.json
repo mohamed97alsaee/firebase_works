@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670783810369",
+    "project_id": "fir-skills-82f00",
+    "storage_bucket": "fir-skills-82f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670783810369:android:890c9195628fce52a4cfc0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_skills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670783810369-3sjlojqubdr7ep55jaigdl5ml69cd9df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhQ2-uN_Lt_itMyalQiTu3NRo2QnhdJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670783810369-3sjlojqubdr7ep55jaigdl5ml69cd9df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
